@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JunSenProTe
-- 👀 I’m interested in java && Ruby && Blender && Phyton;
+- 👀 I’m interested in java , Ruby, Blender, assembly && Phyton;
 - 🌱 I’m currently learning Javascript && c++;
 - 📫 How to reach me : https://www.facebook.com/temo.kobaladze.58;
 
